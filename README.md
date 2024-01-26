@@ -1,5 +1,5 @@
 #### About
 
-- Language learning
+- 2nd Language Learning
 
-##### Copyright (c) 2024 wenxi
+##### Copyright (c) 2024 wenxi tech

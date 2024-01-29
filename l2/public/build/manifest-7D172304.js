@@ -1,0 +1,1 @@
+window.__remixManifest={"entry":{"module":"/build/entry.client-HDRLIVCC.js","imports":["/build/_shared/chunk-KPCJWNYE.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-ARCCY6NN.js","hasAction":false,"hasLoader":false,"hasClientAction":false,"hasClientLoader":false,"hasErrorBoundary":false}},"version":"7d172304","url":"/build/manifest-7D172304.js"};

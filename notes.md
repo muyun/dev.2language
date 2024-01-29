@@ -1,6 +1,6 @@
 #### dev notes
 
--   create app
+-   create app with remix
     > create-react-app app
 -   start the server
     > npm start

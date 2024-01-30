@@ -1,8 +1,10 @@
 #### dev notes
 
--   create app with remix
-    > create-react-app app
--   start the server
+-   flask + react
+    > source l2env/bin/activate  
+    > python3 app.py
+-   start the react
+    > cd frontend
     > npm start
 
 #### reference

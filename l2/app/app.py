@@ -9,8 +9,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "<h1>Hello Flask+React!</h1>"
- 
+    return "<h1>RF Workshop Limted.</h1>"
+
+@app.route('/chat')
+def index():
+    chat.py
+    return "<h1>RF Workshop Limted.</h1>"
+
      
 # Running app
 if __name__ == '__main__':

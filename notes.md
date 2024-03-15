@@ -1,5 +1,9 @@
 #### dev notes
 
+-   personal chat
+
+    -   llm lib
+
 -   learn more about React
 
     -   TODO tic-tac-toe
@@ -16,15 +20,28 @@
 
 -   **DOM** - The Document Object Model (DOM)
 
-    -   JS Interface to HTML doc
+    -   HTML -> DOM
 
-    -   DOM communicates to JS with **Events**
+        -   The browser reads the HTML and cosntructs the DOM
+
+    -   JS <-> DOM <-> UI
+
+        -   JS Interface to HTML doc
+
+        -   DOM communicates to JS with **Events**
 
 -   ReactJS
     -   Focus on JS components rather than pages/HTML
     -   JSX looks like templated HTML embedded in JS
 
+#### business ideas
+
+-   2books
+    -   free old books
+
 #### reference
+
+-   [react-nextjs](https://nextjs.org/learn/react-foundations/getting-started-with-react)
 
 -   [CS142: Web Applications (Spring 2023)](https://web.stanford.edu/class/cs142/lectures.html)
 -   [react-tutorial](https://www.runoob.com/react/react-tutorial.html)

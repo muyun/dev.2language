@@ -2,7 +2,15 @@
 
 -   personal chat
 
+    -   rbot
+
+        > llm aliases set rbot orca-mini-3b-gguf2-q4_0  
+        > llm chat -m rbot
+
     -   llm lib
+        > pip install llm
+        > llm install llm-gpt4all  
+        > /Users/zhaowenlong/.cache/gpt4all/orca-mini-3b-gguf2-q4_0
 
 -   learn more about React
 

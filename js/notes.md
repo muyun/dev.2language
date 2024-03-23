@@ -2,6 +2,11 @@
 
 #### learning notes
 
+-   JSX - a synatax extension for JS
+
+    -   describe UI in a **HTML-like syntax**
+    -   need a js compiler like Babel to transform JSX code into regular JS
+
 -   **DOM** - The Document Object Model (DOM)
 
     -   HTML -> DOM

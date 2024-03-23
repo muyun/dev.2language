@@ -31,7 +31,7 @@
 
 #### reference
 
--   [react-nextjs](https://nextjs.org/learn/react-foundations/updating-state)
+-   [python+JS](https://vercel.com/guides/how-to-use-python-and-javascript-in-the-same-application)
 
 -   [CS142: Web Applications (Spring 2023)](https://web.stanford.edu/class/cs142/lectures.html)
 -   [react-tutorial](https://www.runoob.com/react/react-tutorial.html)

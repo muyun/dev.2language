@@ -2,6 +2,10 @@
 
 #### learning notes
 
+-   Tailwind - CSS Styling
+
+    -   **CSS modules** allow us to scope CSS to a compoent by creating unique class names
+
 -   JSX - a synatax extension for JS
 
     -   describe UI in a **HTML-like syntax**

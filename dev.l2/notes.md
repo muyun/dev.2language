@@ -12,6 +12,8 @@
         > llm install llm-gpt4all  
         > /Users/zhaowenlong/.cache/gpt4all/orca-mini-3b-gguf2-q4_0
 
+-   nextjs template, astro template
+
 #### inference
 
 -   [How to build an AI app: A step-by-step guide](https://vercel.com/guides/how-to-build-ai-app)

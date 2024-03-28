@@ -2,6 +2,10 @@
 
 #### learning notes
 
+-   vercel server
+
+    -   https://demo-next-dashboard.vercel.app/
+
 -   nextjs
 
     -   page.tsx is a special Next.js file that exports a React component, and it's required for the route to be accessibl

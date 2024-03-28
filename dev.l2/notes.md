@@ -12,7 +12,7 @@
         > llm install llm-gpt4all  
         > /Users/zhaowenlong/.cache/gpt4all/orca-mini-3b-gguf2-q4_0
 
--   nextjs template, astro template
+-   nextjs template, astro template, preline UI
 
 #### inference
 

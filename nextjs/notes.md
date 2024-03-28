@@ -2,6 +2,10 @@
 
 #### learning notes
 
+-   nextjs
+
+    -   page.tsx is a special Next.js file that exports a React component, and it's required for the route to be accessibl
+
 -   Tailwind - CSS Styling
 
     -   **CSS modules** allow us to scope CSS to a compoent by creating unique class names
@@ -31,6 +35,6 @@
 
 #### reference
 
--   [nextjs](https://nextjs.org/learn/dashboard-app/getting-started)
+-   [nextjs](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 
 -   [react-nextjs](https://nextjs.org/learn/react-foundations/updating-state)

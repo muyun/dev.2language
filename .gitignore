@@ -1,4 +1,2 @@
 dev.l2/l2env
-dev.l2/node_modules
-nextjs/.next
-nextjs/node_modules
+nextjs-blog/node_modules

@@ -16,5 +16,6 @@
 
 #### inference
 
+-   [NextJS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
 -   [How to build an AI app: A step-by-step guide](https://vercel.com/guides/how-to-build-ai-app)
 -   [Fine-tuning GPT with OpenAI, Next.js and Vercel AI SDK](https://vercel.com/guides/fine-tuning-openai-nextjs)

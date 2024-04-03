@@ -1,3 +1,3 @@
 #### About L2
 
-##### Copyright (c) 2024 AF Studio Limited
+##### Copyright (c) 2024 FF Studio Limited

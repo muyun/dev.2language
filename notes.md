@@ -1,16 +1,30 @@
 #### dev notes
 
+-   tech
+
+    -   use flask to implement a JSON API
+
+        -   make flask render JSON, instead of having Flask render HTML
+
+    -   frontend client consumes this API
+
+    -   serve the static client from nginx proxy, and route api requests to uwsgi/gunicorn
+
 -   learn more about NEXTJS
 
     -   TODO
 
 -   setup the proj structure - flask + nextjs ~~react~~
+
     -   flask + react
         > source l2env/bin/activate
         > python3 app.py
     -   start the react
+
         > cd frontend
         > npm start
+
+-   deploy on cloudflare
 
 #### business ideas
 

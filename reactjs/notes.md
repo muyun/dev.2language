@@ -4,10 +4,7 @@
 
     > python3 app/app.py
 
-    -   bower.json manages the dependency list of the frontend
-
-        > bower init
-
+    -   npm
 
 #### reference
 

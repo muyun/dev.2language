@@ -14,15 +14,16 @@
 
     -   TODO
 
--   setup the proj structure - flask + nextjs ~~react~~
+-   setup the proj structure - flask + ~~nextjs~~
 
-    -   flask + react
+    -   flask
+
+        -   Flask backend is strictly an API server, we will never be serving complete pages
+
         > source l2env/bin/activate
         > python3 app.py
-    -   start the react
 
-        > cd frontend
-        > npm start
+    -   reactJS lib
 
 -   deploy on cloudflare
 

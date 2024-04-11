@@ -24,6 +24,9 @@
         > python3 app.py
 
     -   reactJS lib
+        -   Django Rest Framework and react using axios to make api calls
+            REST is the most mainstream and easiest to find info on
+            I deploy the react inside django(transfer build files into django) but can be deployed seperately as well.
 
 -   deploy on cloudflare
 

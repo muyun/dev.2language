@@ -1,5 +1,12 @@
 #### dev notes
 
+-   Lean MVP
+
+    -   time box your spec
+    -   write the spec
+    -   cut your spec
+    -   Don't fall in love with your MVP
+
 -   tech
 
     -   use flask to implement a JSON API
@@ -24,13 +31,37 @@
         > python3 app.py
 
     -   reactJS lib
+
         -   Django Rest Framework and react using axios to make api calls
             REST is the most mainstream and easiest to find info on
             I deploy the react inside django(transfer build files into django) but can be deployed seperately as well.
 
--   deploy on cloudflare
+    -   deploy on cloudflare
+
+    -   block-party
+
+        -   Our browser extension product, Privacy Party, is built in React.js and SCSS, with core automations primarily in JavaScript. The application backend is handled by a Python Flask service with a GraphQL API and persistent data backed by a Postgres database via SQLAlchemy/Alembic. Our cloud infrastructure is hosted on Render and AWS.
+
+    -   dash or taipy
+
+    -   LLM Applications with LangChain Tutorial
+        -   llama-cpp-python
 
 #### business ideas
+
+-   anonymous peer support community
+
+    -   competitors
+
+        -   togetherall
+        -   koko
+        -   mindhk
+        -   timelycare
+        -   CanChat – Cantonese Empathetic Chatbot for Secondary School Student
+
+    -   tech
+
+-   speech studio 发音评估
 
 -   2books
 

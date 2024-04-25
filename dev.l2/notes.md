@@ -8,6 +8,8 @@
 
     -   FLASK
 
+        > source appsenv/bin/activate
+
         > flask run
 
     -   rbot
@@ -25,12 +27,17 @@
         > /Users/zhaowenlong/.cache/gpt4all/orca-mini-3b-gguf2-q4_0
 
     -   ollama
+
         -   pdf ai?
         -   [Self Hosting LLMs using Ollama](https://www.avni.sh/posts/homelab/self-hosting-ollama/)
 
+    -   fine-tuning LLM
+
 -   nextjs template, astro template, preline UI
 
-#### inference
+#### reference
+
+-   [Hugging Face Transformers](https://ithelp.ithome.com.tw/articles/10328377)
 
 -   [Build an LLM RAG Chatbot With LangChain](https://realpython.com/build-llm-rag-chatbot-with-langchain/)
 

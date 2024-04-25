@@ -3,5 +3,6 @@ import llm
 
 
 model = llm.get_model("orca-mini-3b-gguf2-q4_0")
-with model.chat_session():
-    response = model.generate()
+conv = model.conversation()
+response = conv.prompt("Five fun facts about pelicans")
+pprint(response.text())

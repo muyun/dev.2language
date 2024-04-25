@@ -1,22 +1,27 @@
-from flask import Flask
-from flask_restful import reqparse, Api, Resource
+from flask import Flask, render_template, request, jsonify
 
+import llm
+
+def get_conversation(prompt, model=llm.get_model("orca-mini-3b-gguf2-q4_0")):
+    
+    conv = model.conversation()
+    response = conv.prompt(prompt)
+    return response.text()
 
 # Initializing flask app
 app = Flask(__name__)
-api = Api(app)
 
-parser = reqparse.RequestParser()
-parser.add_argument('task')
-class Message(Resource):
-    def get(self):
-        return {"message": 'Hello World'}
-api.add_resource(Message, '/api/hello')
 
-@app.route('/chat')
-def index():
-    chat.py
-    return "<h1>RF Workshop Limted.</h1>"
+@app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route('/get')
+def get_messages():
+    userText = request.args.get('msg')
+    response = get_conversation(userText)
+    #print(response)
+    return response
 
      
 # Running app

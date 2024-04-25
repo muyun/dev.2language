@@ -1,20 +1,38 @@
 #### notes
 
+-   REST APIs and Web Services
+
+    -   Identify Resources and define your endpoints
+
 -   personal chat
+
+    -   FLASK
+
+        > flask run
 
     -   rbot
 
         > llm aliases set rbot orca-mini-3b-gguf2-q4_0  
         > llm chat -m rbot
+        > prompt engineering
+
+            - "you are a very friendly peer AI agent who can help youth and provide youth emotional support regarding their emotions"
 
     -   [llm lib](https://simonwillison.net/2023/Jul/12/llm/)
+
         > pip install llm
         > llm install llm-gpt4all  
         > /Users/zhaowenlong/.cache/gpt4all/orca-mini-3b-gguf2-q4_0
 
+    -   ollama
+        -   pdf ai?
+        -   [Self Hosting LLMs using Ollama](https://www.avni.sh/posts/homelab/self-hosting-ollama/)
+
 -   nextjs template, astro template, preline UI
 
 #### inference
+
+-   [Build an LLM RAG Chatbot With LangChain](https://realpython.com/build-llm-rag-chatbot-with-langchain/)
 
 -   [NextJS AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
 -   [How to build an AI app: A step-by-step guide](https://vercel.com/guides/how-to-build-ai-app)

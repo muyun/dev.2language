@@ -37,6 +37,10 @@
 
 #### reference
 
+-   [Prompt Engineering: A Practical Example](https://realpython.com/practical-prompt-engineering/#start-engineering-your-prompts)
+
+-   [Live Transcription With Python and Flask](https://deepgram.com/learn/live-transcription-flask)
+
 -   [Hugging Face Transformers](https://ithelp.ithome.com.tw/articles/10328377)
 
 -   [Build an LLM RAG Chatbot With LangChain](https://realpython.com/build-llm-rag-chatbot-with-langchain/)

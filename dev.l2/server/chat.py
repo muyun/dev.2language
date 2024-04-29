@@ -1,4 +1,5 @@
 import llm
+#from translate import translator
 
 def get_conversation(
         prompt, 
@@ -8,5 +9,6 @@ def get_conversation(
     
     conv = model.conversation()
     response = conv.prompt(prompt, system=system)
+    #zh_response = translator('en', 'zh', response.text())
     return response.text()
 

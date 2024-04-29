@@ -1,5 +1,9 @@
 #### notes
 
+-   TODO
+
+    -   try Llama 3 on amazon
+
 -   REST APIs and Web Services
 
     -   Identify Resources and define your endpoints

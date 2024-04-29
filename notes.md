@@ -3,6 +3,7 @@
 -   Lean MVP
 
     -   time box your spec
+        -   TODO
     -   write the spec
     -   cut your spec
     -   Don't fall in love with your MVP
@@ -21,7 +22,7 @@
 
     -   TODO
 
--   setup the proj structure - flask + ~~nextjs~~
+-   setup the proj structure - flask + ~~nextjs~~ reactJS
 
     -   flask
 
@@ -49,23 +50,67 @@
 
 #### business ideas
 
+-   the issues you are trying to solving
+
+    -   time box your spec
+
+-   mental health care
+
+    -   AI therapy
+
+        -   [认知行为治疗](https://www.jcthplus.org/article/what-is-cognitive-behavioral-therapy)
+
+            -   情绪本身无好坏， 但是不舒服的情绪持续太久，太强烈， 便可能成为我们的重担；
+                CBT 帮助我们观察和分析自己的想法，改善惯性， 打破恶性循环。
+
+                -   我们的想法影响我们的情绪和行为
+
+            -   we act based on how we think
+
+                -   改善自己的想法，以改善情绪，行为和生活模式， 从而帮助管理压力，改善生活质素
+
+            -   临床心理学家提供
+
+                -   改善情绪困扰，包括社交焦虑症， 惊恐症，抑郁和焦虑症状
+                -   以想法作切入点： 哪些想法是否符合客观事实， 检视或挑战固有想法和假设， 以协助你改变无益的想法和行为
+                -   以行为为切入点： 了解行为反应的影响和后果， 选择其他合适的回应方法，或学习解难的技巧
+
+                -   认知行为治疗比较着重个人的改变能力， 对环境等外在因素着墨较少
+
+        -   the teachings and methods of cognitive behavioral therapy (CBT)
+
+            -   CBT is a talking therapy that can help you manage your problems by changing the way you think and behave.
+                It's most commonly used to treat anxiety and depression
+
+        -   alongside human therapy
+
+    -   [Sonia](https://www.soniahealth.com/)
+
+    -   [jcthplus](https://www.jcthplus.org/about-us)
+
+    -   koko
+    -   Tala thrive
+        -   book a video or voice call with one of our therapists or coaches and to access support and resources to help you thrive, not just survive
+        -   网上讲座
+        -   小组治疗 或 工作坊 需要价格提供
+
 -   anonymous peer support community
 
     -   competitors
 
-        -   togetherall
         -   koko
+        -   togetherall
         -   mindhk
         -   timelycare
         -   CanChat – Cantonese Empathetic Chatbot for Secondary School Student
 
     -   tech
 
--   langCSS
+-   AI related
 
     -   [langCSS](https://langcss.com/)
 
--   speech studio 发音评估
+    -   speech studio 发音评估
 
 -   2books
 
@@ -73,7 +118,12 @@
 
 -   turn data into insights, superfast and at scale
 
+    -   zerosheets.com
+
+        -   API using google sheet
+
     -   sundial
+        -   turn data into insights, superfast and at scale
 
 -   rootd
 
@@ -85,6 +135,7 @@
 
 #### reference
 
+-   [Python+React](http://allynh.com/blog/adding-a-react-frontend-to-your-flask-project/)
 -   [python+JS](https://vercel.com/guides/how-to-use-python-and-javascript-in-the-same-application)
 
 -   [CS142: Web Applications (Spring 2023)](https://web.stanford.edu/class/cs142/lectures.html)

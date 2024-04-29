@@ -1,5 +1,9 @@
 #### notes
 
+-   todo
+
+    -   learn reactJS
+
 -   run
 
     -   backend
@@ -12,6 +16,10 @@
 -   use axios with React
 
 #### reference
+
+-   [react-flask](https://www.propelauth.com/post/react-flask-starter-app)
+
+-   [Connect a React Frontend to a Flask Backend](https://dev.to/ondiek/connecting-a-react-frontend-to-a-flask-backend-h1o)
 
 -   [How To Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 

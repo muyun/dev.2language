@@ -1,4 +1,5 @@
 dev.l2/l2env
-nextjs-dashboard/node_modules
-reactjs/api/appsenv
+nextjs-dashboard
+appsenv
 reactjs/node_modules
+express/sample/node_modules
